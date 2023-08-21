@@ -48,6 +48,7 @@ Here are some ideas to get you started:
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![vim Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white&style=flat)
 
   
 🧠 计划学习
