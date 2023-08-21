@@ -64,7 +64,6 @@ Here are some ideas to get you started:
 ![Lenovo Badge](https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 ![armkeil Badge](https://img.shields.io/badge/Arm%20Keil-394049?logo=armkeil&logoColor=fff&style=flat)
@@ -77,6 +76,8 @@ Here are some ideas to get you started:
 ![altiumdesigner Badge](https://img.shields.io/badge/Altium%20Designer-A5915F?logo=microsoftpowerpoint&logoColor=fff&style=flat)
 ![pycharm Badge](https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat)
 ![hugo Badge](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff&style=flat)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
+![adobepremierepro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobephotoshop&logoColor=fff&style=flat)
 # About My Github
 
 <!-- GitHub 数据统计 -->
