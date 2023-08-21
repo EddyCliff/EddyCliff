@@ -1,4 +1,4 @@
-# Hi there 👋 <img src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="200">
+#    <img src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="300">
 
 <!--
 **EddyCliff/EddyCliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
