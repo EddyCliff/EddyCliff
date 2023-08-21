@@ -84,6 +84,7 @@ Here are some ideas to get you started:
 ![Alibaba_Cloud Badge](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?logo=alibabacloud&logoColor=white&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobephotoshop&logoColor=fff&style=flat)
+<img height="50" width="50" src="https://i.postimg.cc/nLyvzcn3/OIP.jpg">
 
 # About My Github
 
