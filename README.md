@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 ![microsoftpowerpoint Badge](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=flat)
 ![altiumdesigner Badge](https://img.shields.io/badge/Altium%20Designer-A5915F?logo=microsoftpowerpoint&logoColor=fff&style=flat)
 ![pycharm Badge](https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat)
+![hugo Badge](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff&style=flat)
 # About My Github
 
 <!-- GitHub 数据统计 -->
