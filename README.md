@@ -4,19 +4,27 @@
 **EddyCliff/EddyCliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
-# I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+# I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+- 🔭 I’m currently **电子信息工程本科在读** ...
+- 🌱 I’m currently learning **嵌入式Linux应用开发/驱动开发**...
+- 👯 I'm passionate about my hobbies of **摄影，阅读**....
+- 🤔 I’m looking for a job **求职中**...
+- 💬 Ask me about **嵌入式软硬件相关**...
+- 📫 How to reach me: korgtest1518@gmail.com...
+- 😄 You may like [My Website](https://eddyblog.cn)**我的博客网站**
+- ⚡ Fun fact: **电影，音乐**...
 
 <!--  skill badge 技能徽章 -->
-💪 正在学习
+💪 熟悉的知识
 <!--
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
@@ -34,6 +42,8 @@ Here are some ideas to get you started:
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 -->
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+[![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)](https://ubuntu.com/)
 [![STMicroelectronics Badge](https://img.shields.io/badge/STMicroelectronics-03234B?logo=stmicroelectronics&logoColor=white&style=flat)](https://www.st.com/)
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
@@ -47,7 +57,7 @@ Here are some ideas to get you started:
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 
 
-🧰 常用的工具
+🧰 掌握的工具
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
@@ -57,6 +67,14 @@ Here are some ideas to get you started:
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![armkeil Badge](https://img.shields.io/badge/Arm%20Keil-394049?logo=armkeil&logoColor=fff&style=flat)
+![Arm Badge](https://img.shields.io/badge/Arm-0091BD?logo=arm&logoColor=fff&style=flat)
+![vmware Badge](https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=fff&style=flat)
+![git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
+![multisim Badge](https://img.shields.io/badge/multisim-00A0DF?logo=multisim&logoColor=fff&style=flat)
+![powershell Badge](https://img.shields.io/badge/powershell-5391FE?logo=powershell&logoColor=fff&style=flat)
+![microsoftpowerpoint Badge](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=flat)
+![altiumdesigner Badge](https://img.shields.io/badge/Altium%20Designer-A5915F?logo=microsoftpowerpoint&logoColor=fff&style=flat)
 # About My Github
 
 <!-- GitHub 数据统计 -->
@@ -71,4 +89,10 @@ Here are some ideas to get you started:
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EddyCliff&theme=white&hide_border=false" />
     <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 </div>
+
+<!-- metrics 基础资料 -->
+<div align="center">
+    <img src="https://metrics.lecoq.io/EddyCliff?template=classic&config.timezone=Asia%2FShanghai">
+</div>
+
 
