@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 <img src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="200">
 
 <!--
 **EddyCliff/EddyCliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
 - 🔭 I’m currently **电子信息工程本科在读** ...
 - 🌱 I’m currently learning **嵌入式Linux应用开发/驱动开发**...
 - 👯 I'm passionate about my hobbies of **摄影，阅读**....
@@ -102,8 +103,8 @@ Here are some ideas to get you started:
 </div>
 
 <!-- metrics 基础资料 -->
-<div align="center">
+<img width="150" src="https://media.giphy.com/media/39GAXpLVKvYRO/giphy.gif" />&emsp;
     <img src="https://metrics.lecoq.io/EddyCliff?template=classic&config.timezone=Asia%2FShanghai">
-</div>
+
 
 
