@@ -55,6 +55,7 @@ Here are some ideas to get you started:
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
+![mysql Badge](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white&style=flat)
 
 
 🧰 掌握的工具
