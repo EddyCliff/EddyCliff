@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 ![multisim Badge](https://img.shields.io/badge/multisim-00A0DF?logo=multisim&logoColor=fff&style=flat)
 ![powershell Badge](https://img.shields.io/badge/powershell-5391FE?logo=powershell&logoColor=fff&style=flat)
 ![microsoftpowerpoint Badge](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=flat)
-![altiumdesigner Badge](https://img.shields.io/badge/Altium%20Designer-A5915F?logo=microsoftpowerpoint&logoColor=fff&style=flat)
+![altiumdesigner Badge](https://img.shields.io/badge/Altium%20Designer-A5915F?logo=altiumdesigner&logoColor=fff&style=flat)
 ![pycharm Badge](https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat)
 ![hugo Badge](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff&style=flat)
 ![labview Badge](https://img.shields.io/badge/labview-FFDB00?logo=labview&logoColor=white&style=flat)
