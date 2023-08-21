@@ -103,8 +103,9 @@ Here are some ideas to get you started:
 </div>
 
 <!-- metrics 基础资料 -->
-<img width="150" src="https://media.giphy.com/media/39GAXpLVKvYRO/giphy.gif" />&emsp;
+<img width="150" src="https://media.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif" />&emsp;
     <img src="https://metrics.lecoq.io/EddyCliff?template=classic&config.timezone=Asia%2FShanghai">
+&emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cxyduck.gif" />
 
 
 
