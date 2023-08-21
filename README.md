@@ -77,6 +77,7 @@ Here are some ideas to get you started:
 ![pycharm Badge](https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat)
 ![hugo Badge](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff&style=flat)
 ![labview Badge](https://img.shields.io/badge/labview-FFDB00?logo=labview&logoColor=white&style=flat)
+![Markdown Badge](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
 ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobephotoshop&logoColor=fff&style=flat)
 # About My Github
