@@ -76,8 +76,9 @@ Here are some ideas to get you started:
 ![altiumdesigner Badge](https://img.shields.io/badge/Altium%20Designer-A5915F?logo=microsoftpowerpoint&logoColor=fff&style=flat)
 ![pycharm Badge](https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat)
 ![hugo Badge](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff&style=flat)
+![labview Badge](https://img.shields.io/badge/labview-FFDB00?logo=labview&logoColor=white&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![adobepremierepro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobephotoshop&logoColor=fff&style=flat)
+![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobephotoshop&logoColor=fff&style=flat)
 # About My Github
 
 <!-- GitHub 数据统计 -->
