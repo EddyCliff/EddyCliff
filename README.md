@@ -96,11 +96,10 @@ Here are some ideas to get you started:
 </p>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EddyCliff&theme=white&hide_border=false" />
-    <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EddyCliff&theme=white&hide_border=false" />
 </div>
+
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://media.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif" />&emsp;
