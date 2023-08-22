@@ -96,9 +96,9 @@ Here are some ideas to get you started:
 </p>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<div style="display: flex; justify-content: center;">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EddyCliff&theme=white&hide_border=false" />
-</div>
+</p>
 
 
 <!-- metrics 基础资料 -->
