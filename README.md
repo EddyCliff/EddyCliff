@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: **电影，音乐**...
 
 <!--  skill badge 技能徽章 -->
-💪 熟悉的知识
+💪 正在学习
 <!--
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
