@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 <img height="50" width="50" src="https://i.postimg.cc/wTYNh94S/matlab-copy.png">
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+<img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/assets/images/icon.png" /></div>
 
 # About My Github
 <!-- GitHub 数据统计 -->
