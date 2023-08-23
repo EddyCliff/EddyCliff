@@ -127,6 +127,10 @@ Here are some ideas to get you started:
 &emsp;<img width="150" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EddyCliff&theme=minimal)](https://github.com/EddyCliff/github-readme-activity-graph)
+<table align="center">
+  <tr>
+    <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=EddyCliff&theme=minimal" alt="Activity"/></td>
+  </tr>
+</table>
 
 
