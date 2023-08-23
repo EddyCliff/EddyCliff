@@ -101,15 +101,15 @@ Here are some ideas to get you started:
 
 # About My Github
 <!-- GitHub 数据统计 -->
-<p align="center">
+<div align="center">
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EddyCliff&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&theme=default" />
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EddyCliff&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=default" />
-</p>
+</div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EddyCliff&theme=white&hide_border=false" />
-</p>
+</div>
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
