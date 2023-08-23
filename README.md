@@ -87,9 +87,11 @@ Here are some ideas to get you started:
 ![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobephotoshop&logoColor=fff&style=flat)
 <img height="50" width="50" src="https://i.postimg.cc/nLyvzcn3/OIP.jpg">
 <img height="50" width="50" src="https://i.postimg.cc/wTYNh94S/matlab-copy.png">
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
+
 # About My Github
-
-
 <!-- GitHub 数据统计 -->
 <p align="center">
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EddyCliff&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&theme=default" />
@@ -101,6 +103,10 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EddyCliff&theme=white&hide_border=false" />
 </p>
 
+<!-- GitHub 奖杯🏆 -->
+<div align="center">
+  <img  src="https://github-profile-trophy.vercel.app/?username=EddyCliff&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+</div>
 
 
 <!-- Quotes 名人名言 -->
@@ -113,5 +119,7 @@ Here are some ideas to get you started:
     <img src="https://metrics.lecoq.io/EddyCliff?template=classic&config.timezone=Asia%2FShanghai">
 &emsp;<img width="150" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" />
 
+<!-- GitHub Activity Graph GitHub 活动图 -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EddyCliff&theme=minimal)](https://github.com/EddyCliff/github-readme-activity-graph)
 
 
