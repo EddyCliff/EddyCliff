@@ -89,6 +89,7 @@ Here are some ideas to get you started:
 <img height="50" width="50" src="https://i.postimg.cc/wTYNh94S/matlab-copy.png">
 # About My Github
 
+
 <!-- GitHub 数据统计 -->
 <p align="center">
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EddyCliff&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&theme=default" />
@@ -100,6 +101,12 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EddyCliff&theme=white&hide_border=false" />
 </p>
 
+
+
+<!-- Quotes 名人名言 -->
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
+</p>
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://media.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif" />&emsp;
