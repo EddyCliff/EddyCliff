@@ -116,11 +116,10 @@ Here are some ideas to get you started:
   <img  src="https://github-profile-trophy.vercel.app/?username=EddyCliff&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
-
 <!-- Quotes 名人名言 -->
-<p align="center">
+<div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
-</p>
+</div>
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://media.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif" />&emsp;
