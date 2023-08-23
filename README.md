@@ -14,6 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<!-- profile logo 个人资料徽标 -->
+  <div align="left">
+    <a href="https://eddyblog.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://blog.csdn.net/EddyCliff/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
+    <a href="https://www.zhihu.com/people/EddyCliff/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=EddyCliff&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
 
 - 🔭 I’m currently **电子信息工程本科在读** ...
 - 🌱 I’m currently learning **嵌入式Linux应用开发/驱动开发**...
