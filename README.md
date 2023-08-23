@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?&theme=prussian" alt="Jokes Card" /></div>
 <!-- Quotes 名人名言 -->
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" /></div>
+<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quoteCategory=programming" /></div>
 
 </div>
 
