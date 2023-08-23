@@ -116,6 +116,11 @@ Here are some ideas to get you started:
   <img  src="https://github-profile-trophy.vercel.app/?username=EddyCliff&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
+<!-- Joke 笑话 -->
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?&theme=prussian" alt="Jokes Card" />
+</div>
+
 <!-- Quotes 名人名言 -->
 <div align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default" />
