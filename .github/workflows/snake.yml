@@ -14,18 +14,18 @@ jobs:
     
     steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: aelassas/snk/svg-only@main
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             ./profile-snake-contrib/github-contribution-grid-snake.svg
             ./profile-snake-contrib/github-contribution-grid-snake-dark.svg?palette=github-dark
             
-      - name: push github-contribution-grid-snake.svg to the main branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
         with:
           target_branch: main
           build_dir: ./
           keep_history: true
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
