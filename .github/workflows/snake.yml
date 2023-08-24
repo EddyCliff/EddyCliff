@@ -17,8 +17,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    
+
     steps:
       # 使用 actions/checkout, see: https://github.com/actions/checkout
       - name: Checkout
