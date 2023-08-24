@@ -25,7 +25,7 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: main
-          message: 'Generate Contribution Snake'
+          build_dir: ./
           keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
