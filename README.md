@@ -116,14 +116,18 @@ Here are some ideas to get you started:
   <img  src="https://github-profile-trophy.vercel.app/?username=EddyCliff&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
-<div align="center">
-  
 <!-- Joke 笑话 -->
-<div><img src="https://readme-jokes.vercel.app/api?&theme=prussian" alt="Jokes Card" /></div>
-<!-- Quotes 名人名言 -->
-<div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&quoteCategory=programming" /></div>
-
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?&theme=prussian" alt="Jokes Card" />
 </div>
+
+<!-- Quotes 名人名言 -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&hide_border=false&quoteCategory=programming" />
+</div>
+
+<!-- 添加垂直间距 -->
+<div style="margin-bottom: 20px;"></div>
 
 <!-- metrics 基础资料 -->
 <img width="150" src="https://media.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif" />&emsp;
