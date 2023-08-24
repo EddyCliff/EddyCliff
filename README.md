@@ -121,18 +121,20 @@ Here are some ideas to get you started:
   <img src="https://readme-jokes.vercel.app/api?&theme=prussian" alt="Jokes Card" />
 </div>
 
-<!-- Quotes 名人名言 -->
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default&hide_border=false&quoteCategory=programming" />
-</div>
-
-<!-- 添加垂直间距 -->
-<div style="margin-bottom: 20px;"></div>
-
-<!-- metrics 基础资料 -->
-<img width="150" src="https://media.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif" />&emsp;
+  <!-- Quotes 名人名言 -->
+  <div>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=marko&quoteCategory=programming" />
+  </div>
+  
+  <!-- metrics 基础资料 -->
+  <div>
+    <img width="150" src="https://media.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif" />&emsp;
     <img src="https://metrics.lecoq.io/EddyCliff?template=classic&config.timezone=Asia%2FShanghai">
-&emsp;<img width="150" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" />
+    &emsp;<img width="150" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" />
+  </div>
+</div>
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
