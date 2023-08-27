@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 
   <!-- Quotes 名人名言 -->
   <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=marko&quoteCategory=programming" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark&quoteCategory=programming" />
   </div>
   
 <!-- Joke 笑话 -->
