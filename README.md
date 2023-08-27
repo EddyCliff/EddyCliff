@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 
 <!-- Quotes 名人名言 -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=solarized-light" />
+  <img src="https://quotes-github-readme.vercel.app/api?theme=solarized-light" />
 </div>
   
 <!-- Joke 笑话 -->
