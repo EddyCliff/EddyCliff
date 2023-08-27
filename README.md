@@ -117,25 +117,24 @@ Here are some ideas to get you started:
   <img  src="https://github-profile-trophy.vercel.app/?username=EddyCliff&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
+
+  <!-- Quotes 名人名言 -->
+  <div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=marko&quoteCategory=programming" />
+  </div>
+  
 <!-- Joke 笑话 -->
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?&theme=prussian" alt="Jokes Card" />
 </div>
 
-
-<div align="center">
-  <!-- Quotes 名人名言 -->
-  <div>
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=marko&quoteCategory=programming" />
-  </div>
-  
   <!-- metrics 基础资料 -->
-  <div>
+  <div align="center">
     <img width="150" src="https://media.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif" />&emsp;
     <img src="https://metrics.lecoq.io/EddyCliff?template=classic&config.timezone=Asia%2FShanghai">
     &emsp;<img width="150" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" />
   </div>
-</div>
+
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
