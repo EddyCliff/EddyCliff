@@ -114,9 +114,69 @@ Here are some ideas to get you started:
 
 <!-- GitHub 奖杯🏆 -->
 <div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=EddyCliff&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
+<!-- wakatime 统计 -->
+### 📊 WakaTime
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
+</picture>
+
+</td></tr>
+
+<tr><td>
+
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                391 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+🌆 Daytime                544 commits         ████████░░░░░░░░░░░░░░░░░   31.09 % 
+🌃 Evening                550 commits         ████████░░░░░░░░░░░░░░░░░   31.43 % 
+🌙 Night                  265 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+Tuesday                  197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+Wednesday                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+Thursday                 209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Friday                   482 commits         ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+Saturday                 163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Sunday                   242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+JSON                     15 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  15 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      15 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 07/09/2023 01:11:33 UTC
+<!--END_SECTION:waka-->
+</td></tr>
 
 <!-- Quotes 名人名言 -->
 <div align="center">
