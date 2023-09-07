@@ -234,9 +234,8 @@ Mac                      15 mins             ███████████�
   </tr>
 </table>
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
+<img width="120%" src="https://repobeats.axiom.co/api/embed/06d023ce9e21494f033ea3c9ee0dd47a6c835a5d.svg" />
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
+
 </div>
 
