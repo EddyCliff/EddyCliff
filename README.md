@@ -129,21 +129,22 @@ Here are some ideas to get you started:
 
 
   <!-- metrics 基础资料 -->
+  <!--
   <div align="center">
     <img width="150" src="https://media.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif" />&emsp;
     <img src="https://metrics.lecoq.io/EddyCliff?template=classic&config.timezone=Asia%2FShanghai">
     &emsp;<img width="150" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" />
   </div>
+  -->
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
-<!--
 <table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=EddyCliff&theme=minimal" alt="Activity"/></td>
   </tr>
 </table>
--->
+
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
