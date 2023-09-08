@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   </div>
 
 - 🔭 I’m currently **电子信息工程本科在读** ...
-- 🌱 I’m currently learning **嵌入式Linux应用开发/驱动开发**...
+- 🌱 I’m currently learning **嵌入式Linux应用开发/驱动开发/前端**...
 - 👯 I'm passionate about my hobbies of **摄影，阅读**....
 - 🤔 I’m looking for a job **求职中**...
 - 💬 Ask me about **嵌入式软硬件相关**...
@@ -117,67 +117,6 @@ Here are some ideas to get you started:
   <img  src="https://github-profile-trophy.vercel.app/?username=EddyCliff&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=EddyCliff&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=EddyCliff&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EddyCliff&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                391 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-🌆 Daytime                544 commits         ████████░░░░░░░░░░░░░░░░░   31.09 % 
-🌃 Evening                550 commits         ████████░░░░░░░░░░░░░░░░░   31.43 % 
-🌙 Night                  265 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-Tuesday                  197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Wednesday                226 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Thursday                 209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Friday                   482 commits         ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-Saturday                 163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-Sunday                   242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-JSON                     15 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 07/09/2023 01:11:33 UTC
-<!--END_SECTION:waka-->
-</td></tr>
-
 <!-- Quotes 名人名言 -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?theme=solarized-light" />
@@ -188,6 +127,7 @@ Mac                      15 mins             ███████████�
   <img src="https://readme-jokes.vercel.app/api?&theme=prussian" alt="Jokes Card" />
 </div>
 
+
   <!-- metrics 基础资料 -->
   <div align="center">
     <img width="150" src="https://media.giphy.com/media/xx0JzzsBXzcMK542tx/giphy.gif" />&emsp;
@@ -197,11 +137,13 @@ Mac                      15 mins             ███████████�
 
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
+<!--
 <table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=EddyCliff&theme=minimal" alt="Activity"/></td>
   </tr>
 </table>
+-->
 
 <!-- GitHub metrics 信息指标 -->
 <div align="center">
@@ -210,23 +152,11 @@ Mac                      15 mins             ███████████�
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/languages.indepth.svg" alt="languages.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/reactions.svg" alt="reactions" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/followup.indepth.svg" alt="followup.indepth" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
+     <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/activity.svg" alt="activity" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/stackoverflow.svg" alt="stackoverflow" /></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/stars.svg" alt="stars" /></td>
@@ -235,7 +165,6 @@ Mac                      15 mins             ███████████�
 </table>
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/06d023ce9e21494f033ea3c9ee0dd47a6c835a5d.svg" />
-
 
 </div>
 
