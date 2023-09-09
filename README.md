@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<tr><td>
-  
-### I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-
 <!-- profile logo 个人资料徽标 -->
   <div align="left">
     <a href="https://eddyblog.cn/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
@@ -26,7 +22,16 @@ Here are some ideas to get you started:
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=EddyCliff&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
+  
 
+#  🙋 Hello
+
+<table>
+<tr><td>  
+  
+<!-- About me 关于我 -->
+### 🤺 About Me
+I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 - 🔭 I’m currently **电子信息工程本科在读** ...
 - 🌱 I’m currently learning **嵌入式Linux应用开发/嵌入式软件开发/驱动开发/前端**...
 - 👯 I'm passionate about my hobbies of **摄影，阅读**....
@@ -38,9 +43,9 @@ Here are some ideas to get you started:
 
 </td></tr>
 
-<tr><td>
-<!--  skill badge 技能徽章 -->
-💪 正在学习
+
+
+
 <!--
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
@@ -58,6 +63,16 @@ Here are some ideas to get you started:
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
 -->
+
+
+
+<tr><td>
+<!--  skill badge 技能徽章 -->
+
+### skill
+  
+💪 正在学习
+  
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)](https://ubuntu.com/)
 [![STMicroelectronics Badge](https://img.shields.io/badge/STMicroelectronics-03234B?logo=stmicroelectronics&logoColor=white&style=flat)](https://www.st.com/)
@@ -108,6 +123,7 @@ Here are some ideas to get you started:
 
 </td></tr>
 
+<tr><td>
 <!-- GitHub 数据统计 -->
 <div align="center">
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EddyCliff&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&theme=default" />
@@ -131,7 +147,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/EddyCliff/Embedded-Learning-Notes">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EddyCliff&repo=Embedded-Learning-Notes&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
 </div> 
+</td></tr>
 
+<tr><td>
 <!-- Quotes 名人名言 -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?theme=solarized-light" />
@@ -141,7 +159,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?&theme=prussian" alt="Jokes Card" />
 </div>
-
+</td></tr>
 
   <!-- metrics 基础资料 -->
   <!--
