@@ -117,6 +117,7 @@ Here are some ideas to get you started:
   <img  src="https://github-profile-trophy.vercel.app/?username=EddyCliff&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
+
 <!-- Quotes 名人名言 -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?theme=solarized-light" />
@@ -136,7 +137,12 @@ Here are some ideas to get you started:
     &emsp;<img width="150" src="https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif" />
   </div>
   -->
+  
+<!-- wakatime 统计 -->
+### 📊 WakaTime
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
