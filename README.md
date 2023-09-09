@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/assets/images/icon.png" /></div>
 
-# About My Github
+
 <!-- GitHub 数据统计 -->
 <div align="center">
     <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EddyCliff&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&theme=default" />
