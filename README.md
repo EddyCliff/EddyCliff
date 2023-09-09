@@ -153,24 +153,13 @@ I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 <!-- Quotes 名人名言 -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?theme=solarized-light" />
+</div>
 <!-- Joke 笑话 -->
+<div align="center"> 
   <img  src="https://readme-jokes.vercel.app/api?&theme=prussian" alt="Jokes Card" />
 </div>
 </td></tr>
 
-<tr><td>
-<div style="display: flex; align-items: stretch;">
-  <div style="flex: 1;">
-    <!-- 第一个模块的内容 -->
-    <img src="https://quotes-github-readme.vercel.app/api?theme=solarized-light" />
-  </div>
-  <div style="flex: 1;">
-    <!-- 第二个模块的内容 -->
-    <img src="https://readme-jokes.vercel.app/api?&theme=prussian" alt="Jokes Card" />
-  </div>
-</div>
-
-</td></tr>
 
   <!-- metrics 基础资料 -->
   <!--
