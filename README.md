@@ -253,6 +253,10 @@ Windows                  18 mins             ███████████�
      <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/habits.charts.svg" alt="habits.charts" /></td>
   </tr>
   <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/wakatime.svg" alt="wakatime" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+  </tr>
+  <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
     <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/calendar.full.svg" alt="calendar.full" /></td>
   </tr>
