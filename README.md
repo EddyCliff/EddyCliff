@@ -145,7 +145,7 @@ Here are some ideas to get you started:
   </div>
   -->
 
-  
+<tr><td>
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 <picture>
