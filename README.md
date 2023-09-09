@@ -24,13 +24,13 @@ Here are some ideas to get you started:
   </div>
   
 
-#  🙋 Hello
+#  👨‍💻 Hello
 
 <table>
 <tr><td>  
   
 <!-- About me 关于我 -->
-### 🤺 About Me
+### 🏂 About Me
 I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 - 🔭 I’m currently **电子信息工程本科在读** ...
 - 🌱 I’m currently learning **嵌入式Linux应用开发/嵌入式软件开发/驱动开发/前端**...
@@ -69,7 +69,7 @@ I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 <tr><td>
 <!--  skill badge 技能徽章 -->
 
-### skill
+### 💻️ Special Skill
   
 💪 正在学习
   
