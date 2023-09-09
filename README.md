@@ -146,6 +146,7 @@ Here are some ideas to get you started:
   -->
 
 <tr><td>
+  
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 <picture>
@@ -163,6 +164,7 @@ Here are some ideas to get you started:
 </td></tr>
 
 <tr><td>
+  
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
@@ -206,7 +208,7 @@ Windows                  18 mins             ███████████�
 <!--END_SECTION:waka-->
 
 </td></tr>
-</table>
+
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
 <table align="center">
