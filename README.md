@@ -255,7 +255,7 @@ Windows                  18 mins             ███████████�
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/wakatime.svg" alt="wakatime" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
+    <td><img src="https://testingcf.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/repositories.pinned.svg" alt="repositories.pinned" /></td>
   </tr>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/github-metrics/isocalendar.fullyear.svg" alt="isocalendar.fullyear" /></td>
