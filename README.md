@@ -117,6 +117,13 @@ Here are some ideas to get you started:
   <img  src="https://github-profile-trophy.vercel.app/?username=EddyCliff&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
 
+<!-- Awesome repo 比较好的仓库-->
+<div align="center" >
+<a href="https://github.com/EddyCliff/STM32-Intelligent-Car">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EddyCliff&repo=STM32-Intelligent-Car&theme=dark&bg_color=121212&hide_border=true" /></a>
+<a href="https://github.com/EddyCliff/Embedded-Learning-Notes">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EddyCliff&repo=Embedded-Learning-Notes&theme=dark&bg_color=121212&hide_border=true" /></a><br><br>
+</div> 
 
 <!-- Quotes 名人名言 -->
 <div align="center">
