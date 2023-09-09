@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<tr><td>
+  
 ### I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <!-- profile logo 个人资料徽标 -->
@@ -33,6 +36,9 @@ Here are some ideas to get you started:
 - 😄 You may like [My Website](https://eddyblog.cn)**我的博客网站**
 - ⚡ Fun fact: **电影，音乐**...
 
+</td></tr>
+
+<tr><td>
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 <!--
@@ -100,6 +106,7 @@ Here are some ideas to get you started:
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/EddyCliff/EddyCliff/assets/images/icon.png" /></div>
 
+</td></tr>
 
 <!-- GitHub 数据统计 -->
 <div align="center">
