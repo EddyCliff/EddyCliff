@@ -61,6 +61,13 @@ I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 ![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Three.js Badge](https://img.shields.io/badge/Three.js-092E20?logo=threedotjs&logoColor=fff&style=flat)
+![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
+![Alibaba_Cloud Badge](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?logo=alibabacloud&logoColor=white&style=flat)
+![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
+![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobephotoshop&logoColor=fff&style=flat)
+![microsoftpowerpoint Badge](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=flat)
+![pycharm Badge](https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 -->
 
 
@@ -75,7 +82,6 @@ I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 [![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)](https://ubuntu.com/)
 [![STMicroelectronics Badge](https://img.shields.io/badge/STMicroelectronics-03234B?logo=stmicroelectronics&logoColor=white&style=flat)](https://www.st.com/)
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
 ![vim Badge](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white&style=flat)
@@ -83,7 +89,7 @@ I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
   
 🧠 计划学习
 
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+
 ![Qt Badge](https://img.shields.io/badge/Qt-41CD52?logo=qt&logoColor=fff&style=flat)
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=flat)
 ![mysql Badge](https://img.shields.io/badge/MySQL-005C84?&logo=mysql&logoColor=white&style=flat)
@@ -104,16 +110,11 @@ I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 ![git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![multisim Badge](https://img.shields.io/badge/multisim-00A0DF?logo=multisim&logoColor=fff&style=flat)
 ![powershell Badge](https://img.shields.io/badge/powershell-5391FE?logo=powershell&logoColor=fff&style=flat)
-![microsoftpowerpoint Badge](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=flat)
 ![altiumdesigner Badge](https://img.shields.io/badge/Altium%20Designer-A5915F?logo=altiumdesigner&logoColor=fff&style=flat)
-![pycharm Badge](https://img.shields.io/badge/Pycharm-000000?logo=pycharm&logoColor=fff&style=flat)
 ![hugo Badge](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff&style=flat)
 ![labview Badge](https://img.shields.io/badge/labview-FFDB00?logo=labview&logoColor=white&style=flat)
 ![Markdown Badge](https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=flat)
 ![Canva Badge](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white&style=flat)
-![Alibaba_Cloud Badge](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?logo=alibabacloud&logoColor=white&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![Adobe Premiere Pro Badge](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?logo=adobephotoshop&logoColor=fff&style=flat)
 <img height="50" width="50" src="https://i.postimg.cc/nLyvzcn3/OIP.jpg">
 <img height="50" width="50" src="https://i.postimg.cc/wTYNh94S/matlab-copy.png">
 
@@ -143,7 +144,10 @@ I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 <div align="center" >
 <a href="https://github.com/EddyCliff/STM32-Intelligent-Car">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=EddyCliff&repo=STM32-Intelligent-Car" /></a>
-  
+
+<a href="https://github.com/EddyCliff/RTOS-STM32-Intelligent-Car">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=EddyCliff&repo=RTOS-STM32-Intelligent-Car" /></a>
+
 <a href="https://github.com/EddyCliff/Embedded-Learning-Notes">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=EddyCliff&repo=Embedded-Learning-Notes" /></a>
 
