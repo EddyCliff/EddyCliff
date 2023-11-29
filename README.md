@@ -126,8 +126,8 @@ I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 <tr><td>
 <!-- GitHub 数据统计 -->
 <div align="center">
-    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EddyCliff&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&theme=default" />
-    <img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=EddyCliff&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=default" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=EddyCliff&hide_title=false&hide_border=false&show_icons=true&include_all_commits=true&line_height=21&theme=default" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyCliff&hide_title=false&hide_border=false&layout=compact&langs_count=6&theme=default" />
 </div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
