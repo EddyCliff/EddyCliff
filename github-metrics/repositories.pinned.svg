@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="370" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="290" class="">
     <defs>
         <style/>
     </defs>
@@ -27,7 +27,7 @@
                                         <span>created Aug 21 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">欢迎来到“stm32智能小车”仓库！这里是一个专注于基于STM32微控制器的智能小车项目的代码存储库。                主要特点： - 基于STM32微控制器。 - 配备各种传感器，包括但不限于超声波传感器、红外传感器、编码器等，用于环境感知和位置控制。 - 使用先进的算法实现自主导航和避障，使小车能够在复杂环境中智能移动。 - 提供多种远程控制方式，如手机App、蓝牙遥控等，方便用户操控小车。- 注意：本工程为裸机开发，不带操作系统。</div>
+                                <div class="field description">欢迎来到“stm32智能小车”仓库！这里是一个专注于基于STM32微控制器的智能小车项目的代码存储库。 注意：本工程为裸机开发，不带操作系统。</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
