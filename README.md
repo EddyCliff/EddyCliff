@@ -39,6 +39,15 @@ I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 - 📫 How to reach me: korgtest1518@gmail.com...
 - 😄 You may like [My Website](https://eddyblog.cn)**我的博客网站**
 - ⚡ Fun fact: **电影，音乐**...
+- 📕 Certification:
+- **华为开发者联盟** 华为开发者学堂-HarmonyOS应用开发者基础认证，华为开发者学堂-HarmonyOS应用开发者高级认证
+- **昇腾微认证** 昇腾微认证-昇腾AI入门(Pytorch) ，昇腾微认证-初识新一代开发者套件 Atlas 200I DK A2 
+- **阿里云认证** 阿里云Apsara Clouder专项技能认证-云服务器ESC入门
+- **达摩院-机器智能技术事业部认证** 已完成达摩院智能客服“人工智能训练师”初级培训课程且认证合格-人工智能训练师证书
+- **Google Analytics学院** Google Analytics入门知识结业证书，Google Analytics高级课程结业证书
+- **The Digital Adda** Certificate of completion：Agile HR Professional，Artifical Intelligence，Computer Hardware & Networking，
+  Excel For Data Analysis，Business Analysis & Intelligence
+- **MachineLearnig.org.in** Certificate of completion：Linux Advice Drivers               
 
 </td></tr>
 
