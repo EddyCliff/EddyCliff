@@ -142,7 +142,7 @@ jobs:
           base: ""
           plugin_repositories: yes
           plugin_repositories_pinned: 2
-          plugin_repositories_featured: EddyCliff/STM32-Intelligent-Car, EddyCliff/Embedded-Learning-Notes  # 添加这一行来固定 "stm32" 和 "stm31" 仓库
+          plugin_repositories_featured: EddyCliff/STM32-Intelligent-Car, EddyCliff/RTOS-STM32-Intelligent-Car  # 添加这一行来固定 "stm32小车" 和 "RTOS stm32小车" 仓库
 
       # 💬 Discussions
       - name: GitHub Discussions
