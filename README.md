@@ -149,9 +149,6 @@ I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 <a href="https://github.com/EddyCliff/RTOS-STM32-Intelligent-Car">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=EddyCliff&repo=RTOS-STM32-Intelligent-Car" /></a>
 
-<a href="https://github.com/EddyCliff/Embedded-Learning-Notes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EddyCliff&repo=Embedded-Learning-Notes" /></a>
-
 <a href="https://github.com/EddyCliff/ScriptHaven">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=EddyCliff&repo=ScriptHaven" /></a>
 </div> 
