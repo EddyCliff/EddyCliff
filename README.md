@@ -143,8 +143,6 @@ I'm EddyCliff <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" 
 
 <!-- Awesome repo 比较好的仓库-->
 <div align="center" >
-<a href="https://github.com/EddyCliff/STM32-Intelligent-Car">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=EddyCliff&repo=STM32-Intelligent-Car" /></a>
 
 <a href="https://github.com/EddyCliff/RTOS-STM32-Intelligent-Car">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=EddyCliff&repo=RTOS-STM32-Intelligent-Car" /></a>
