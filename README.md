@@ -1,19 +1,5 @@
 ###    <img src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="300">
 
-<!--
-**EddyCliff/EddyCliff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <!-- profile logo 个人资料徽标 -->
   <div align="left">
     <a href="https://eddycliff.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
@@ -30,9 +16,9 @@ Here are some ideas to get you started:
 <!-- About me 关于我 -->
 ### 🏂 About Me
 
-- 💼 职业身份：**内容创作者（Content Creator）**
-- 🎨 创意工具：Pr/Ae × Lightroom × Markdown
-- ⚡ 灵感来源：电影 | 独立音乐 | 城市探索         
+- 💼 **职业身份**：内容创作者（Content Creator）
+- 🎨 **创意工具**：Pr/Ae × Lightroom × Markdown
+- ⚡ **灵感来源**：电影 | 独立音乐 | 城市探索         
 
 </td></tr>
 
