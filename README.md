@@ -1,11 +1,4 @@
 ###    <img src="https://media.giphy.com/media/tJDz8mPYyUJZ1Pg9fA/giphy.gif" width="300">
-
-<!-- profile logo 个人资料徽标 -->
-  <div align="left">
-    <a href="https://eddycliff.github.io/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=EddyCliff&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-  </div>
   
 
 #  👨‍💻 Hello
